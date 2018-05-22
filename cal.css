@@ -1,0 +1,23 @@
+.cal-dayview {
+  width: 300px;
+  height: 600px;
+  border: 1px solid black;
+  position: absolute;
+}
+
+.cal-ruler {
+  height: 24px;
+  position: relative;
+  border-bottom: 1px solid #eee;
+  font-size: 12px;
+  color: #eee;
+}
+
+.cal-event {
+  width: 290px;
+  position: absolute;
+  margin-right: 10px;
+  border: 1px solid green;
+  background: #fef;
+  font-size: 10px;
+}
